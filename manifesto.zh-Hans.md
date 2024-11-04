@@ -1,10 +1,10 @@
-Through our own journey of building software and helping others to achieve the same goal, we have concluded that the following 4 principles should lie at the core of the Developer Experience:
+在我们自己构建软件的旅程中，以及协助他人达成相同目标的过程中，我们得到的结论显示，开发者体验的4大核心原则是：
 
-- **Automate** the repetitive tasks
-- **Conventionalise** the workflow through tooling
-- **Sustain** the development pace consistently
-- **Adopt** the industry wide best practices
+- **自动化**重复性任务
+- 通过工具**规范化**工作流程
+- **持续**稳定地保持开发节奏
+- **采纳**业内最佳实践
 
-We do not deny the value of other principles, however, we have come to value the above mentioned points with a significantly stronger emphasis.
+我们并不否认其他原则的重要价值，但对上述几点原则更加重视。
 
-[The 9 Principles of great Developer Experience](/principles)
+[优秀开发者体验的9大原则](/principles)
